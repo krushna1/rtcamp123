@@ -1,0 +1,48 @@
+.pri{margin: 05px 02px 05px;}
+.pr{margin: 20px 10px 20px;}
+#container
+{width: 1000px; height: 1000px;background-color: #de8702;}
+#header
+{width:998px;height: 190px;}
+#menu
+{width: 995px;height: 30px; background-color:#2a0001;padding-top: 10px;border-style: double;border-color:#de8702;}
+a{margin: 10px 60px 10px;font-family:Monotype Corsiva;font-size: 30px; }
+a:hover
+{color:#9B5E01;}
+.menus{margin-left: 60px;margin-top: 05px;}
+#footr
+{width: 998px;height: 30px;float:left;text-align: center;}
+a{color: #F5DBB3;font-size: 15px;}
+#hr
+{width: 998px;height: 20px;float: left;}
+#cont
+{width: 800px;height:650px;padding-top: 05px;float: left; }
+#fr
+{width: 490px;height:40px;float: left;color:#2a0001;}
+hr{border:dotted;border-color:#2a0001;}
+#ft
+{width:505;height:40px;float: left;text-align: right;font-size: 12px; }
+.man{font-size: 18px;color: #2a0001;font-family:Monotype Corsiva ;}
+.mal{font-size: 22px;color: #F5DBB3;font-family:Monotype Corsiva ;}
+#pic{width: 100px;height: 100px;float: left;}
+#menu1
+{width:998 px;height: 40px;padding-top: 05px;}
+.mar{font-size: 30px;color: #2a0001;font-family:Monotype Corsiva ;}
+#ft
+{width:505;height:40px;float: left;text-align: right;font-size: 12px; }
+hr{border:dotted;border-color:#2a0001;}
+#fr
+{width: 490px;height:40px;float: left;color:#2a0001;}
+#footr
+{width: 998px;height: 30px;float:left;text-align: center;}
+a{color: #F5DBB3;font-family:Monotype Corsiva;font-size: 15px;}
+.ma{font-size: 20px;color: #2a0001;font-family:Monotype Corsiva ;}
+
+#hr
+{width: 998px;height: 20px;float: left;}
+#si
+{width:250px;height: 620px;float:left;padding-top: 03px;}
+.prt{margin: 10px 50px 10px;}
+
+#st
+{width:243px;height: 620px;float:left;padding-top: 03px;}

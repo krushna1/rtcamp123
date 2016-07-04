@@ -1,0 +1,38 @@
+#container
+{width: 1000px; height: 2460px; background-color: #de8702;}
+
+#header
+{width: 998px;height: 190px;}
+.pri{margin: 05px 02px 05px;}
+.mar{font-size: 25px;color: #2a0001;font-family:Monotype Corsiva ;}
+
+#menu
+{width: 995px;height: 30px; background-color:#2a0001;padding-top: 10px;border-style: double;border-color:#de8702;}
+a{margin: 10px 60px 10px;font-family:Monotype Corsiva;font-size: 30px; }
+a:hover
+{color:#9B5E01;}
+#ft
+{width:505;height:40px;float: left;text-align: right;font-size: 12px; }
+hr{border:dotted;border-color:#2a0001;}
+#fr
+{width: 490px;height:40px;float: left;color:#2a0001;}
+#footr
+{width: 998px;height: 30px;float:left;text-align: center;}
+a{color: #F5DBB3;font-family:Monotype Corsiva;font-size: 15px;}
+#hr
+{width: 998px;height: 20px;float: left;}
+#di
+{width:978px;height: 30px;float: left;padding: 10px 10px 10px;}
+#tab
+{width: 998px;height: 428px;float: left;float:left;}
+
+#spac
+{width: 300px;height: 500px;float: left; }
+#spac1
+{width: 695px;height: 30px;float: left;}
+
+#Ahmednagar
+{width: 998px; height: 50px;float:left;padding-top: 05px;}
+#ahmd{width:998px;height: 210px;float:left;padding-top: 03px;}
+#sp
+{width: 998px ;height: 30px;float:left;}

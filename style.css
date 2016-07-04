@@ -1,0 +1,65 @@
+#container
+{width: 1000px; height: 1000px;background-color: #DE8702;}
+.pri{margin: 05px 02px 05px;}
+.pr{margin: 10px 50px 10px;}
+#header
+{width: 998px;height: 190px;}
+#menu
+{width: 995px;height: 30px; background-color:#2a0001;padding-top: 10px;border-style: double;border-color:#de8702;}
+a{margin: 10px 60px 10px;font-family:Monotype Corsiva;font-size: 30px; }
+a:hover
+{color:#9B5E01;}
+#marq
+{width: 1000px;height: 190px;}
+#about
+{width: 490px;height: 290px;float: left;}
+h2{text-decoration: underline;font-style: italic;font-family:Monotype Corsiva;}
+p{text-align:inherit;color:#321E00;font-family:Monotype Corsiva;font-size:17px;}
+h3{font-style: italic;font-family:Monotype Corsiva;font-size: 20px;}
+.pt{font-family:Monotype Corsiva;font-size: 15px;color: #F5DBB3;}
+#phot
+{width: 505px;height: 290px;float: left;}
+
+#footr
+{width: 998px;height: 30px;float:left;text-align: center;}
+a{color: #F5DBB3;font-size: 15px;}
+#hr
+{width: 998px;height: 20px;float: left;}
+
+#fr
+{width: 490px;height:40px;float: left;color:#2a0001;}
+hr{border:dotted;border-color:#2a0001;}
+#ft
+{width:505;height:40px;float: left;text-align: right;font-size: 12px; }
+#italy
+{width: 998px;height: 30px;float: left;}
+#div
+{width: 200px;height: 157px;float: left;}
+
+#div1
+{width: 575px;height: 157px;float: left;padding: 03px 10px 03px;}
+#div2
+{width:200px;height: 157px;float: left;text-align: left;}
+#add{width:300px;height: 200px;float: left;border-style: groove; }
+#spac
+{width: 300px;height: 635px;float: left;}
+#spac1
+{width: 695px;height: 30px;float: left;padding-top: 05px;}
+.mar{font-size: 20px;color: #2a0001;font-family:Monotype Corsiva ;}
+#form
+{width: 695px;height: 600px;float: left;float:left;}
+form{text-align: center;}
+#abt
+{width: 680px;height: 200px;float:left;}
+
+#cont
+{width: 998px;height:50px;float:left;color:#800000;font-family: MV Boli;}
+#im
+{width:300px;height: 200px;float: left; padding: 03px 10px 03px}
+#ins
+{width: 695px;height: 150px;float: left;}
+table{padding: 05px 10px 05px;margin:  10px 75px 05px;}
+td{color:#F5DBB3;font-family:Monotype Corsiva;font-size:17px;text-decoration: underline;}
+#moto
+{width:695px;height: 250px;float:left; }
+ul{color:#321E00;font-family:Monotype Corsiva;font-size:17px;}
